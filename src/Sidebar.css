@@ -1,0 +1,30 @@
+.sidebar {
+    width: 25%;
+    padding: 20px;
+    color: #fff;
+    background-color: #1b1b2f;
+  }
+  
+  .sidebar h3 {
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  .attack-graph img {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .real-time-attacks {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .attack {
+    background-color: #171724;
+    padding: 10px;
+    border-left: 3px solid rgb(0, 213, 255);
+    font-weight: bold;
+  }
+  

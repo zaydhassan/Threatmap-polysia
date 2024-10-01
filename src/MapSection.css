@@ -1,0 +1,13 @@
+.map-section {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #171724;
+  }
+  
+  .map-section .world-map {
+    width: 80%;
+    height: auto;
+  }
+  
