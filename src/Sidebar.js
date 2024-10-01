@@ -6,7 +6,7 @@ const Sidebar = () => {
     <div className="sidebar">
       <h3>Recent Daily Attacks</h3>
       <div className="attack-graph">
-        {/* You can embed a chart or image here */}
+        {/* chart or image here */}
         <img src="path-to-graph.png" alt="Attack Graph" />
       </div>
       <h3>Real-Time Attacks</h3>
